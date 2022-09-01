@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current working directory
+This script creates a directory named my_first_directory in the /tmp/ directory
